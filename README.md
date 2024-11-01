@@ -22,7 +22,7 @@ The **BookInventory** program manages book records, tracking details such as tit
    - If no copies are available, it notifies the user.
 
 4. Error Handling:
-   - The program includes basic error handling for setting invalid values, such as negative publication years or copy counts.
+   - The program includes basic error handling for handling invalid values, such as negative publication years or copy counts.
 
 ## How to Run
 
